@@ -1,0 +1,260 @@
+﻿  mapEditor.cpp
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(290): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(292): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(347): warning C4244: “参数”: 从“unsigned int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(365): warning C4244: “参数”: 从“float”转换到“const unsigned int”，可能丢失数据
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(375): warning C4244: “=”: 从“float”转换到“sf::Int16”，可能丢失数据
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(451): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(452): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(492): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(493): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(513): warning C4244: “=”: 从“T”转换到“sf::Int16”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(514): warning C4244: “=”: 从“T”转换到“sf::Int16”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(530): warning C4244: “=”: 从“T”转换到“sf::Int16”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(531): warning C4244: “=”: 从“T”转换到“sf::Int16”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(574): warning C4244: “=”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(577): warning C4244: “=”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(578): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(581): warning C4244: “=”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(583): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(584): warning C4244: “=”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(935): warning C4244: “=”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(938): warning C4244: “=”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(948): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(949): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(951): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(952): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(975): warning C4244: “初始化”: 从“float”转换到“sf::Uint16”，可能丢失数据
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(1135): warning C4244: “=”: 从“double”转换到“sf::Uint16”，可能丢失数据
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(1258): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(1259): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(1296): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(1324): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(1325): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(1354): warning C4244: “=”: 从“float”转换到“sf::Int16”，可能丢失数据
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(1355): warning C4244: “=”: 从“float”转换到“sf::Int16”，可能丢失数据
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(1391): warning C4244: “=”: 从“float”转换到“sf::Int16”，可能丢失数据
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(1397): warning C4244: “=”: 从“float”转换到“sf::Int16”，可能丢失数据
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(1399): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(1405): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(1406): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(1408): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(1409): warning C4244: “=”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(1426): warning C4244: “=”: 从“float”转换到“sf::Int16”，可能丢失数据
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(1673): warning C4244: “=”: 从“double”转换到“sf::Uint16”，可能丢失数据
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(2011): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(2015): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(2021): warning C4244: “初始化”: 从“double”转换到“sf::Uint16”，可能丢失数据
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(2025): warning C4244: “=”: 从“double”转换到“sf::Uint16”，可能丢失数据
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(2032): warning C4244: “初始化”: 从“double”转换到“sf::Uint16”，可能丢失数据
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(2034): warning C4244: “=”: 从“float”转换到“sf::Uint16”，可能丢失数据
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(2350): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(2353): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(2358): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(2362): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+h:\loopoxs\mapeditor\mapeditor\mapeditor\mapeditor.cpp(2668): warning C4172: 返回局部变量或临时变量的地址: szBuffer
+  mapEditor.vcxproj -> H:\loopoxs\mapEditor\mapEditor\Debug\mapEditor.exe
